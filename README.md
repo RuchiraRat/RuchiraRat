@@ -7,18 +7,18 @@
 
 ---
 
+
+
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
-  
+
+  ## About Me
 - 🌱 I’m currently learning **Android Studio**
-
 - 🧑‍🎓 I’m an Undergraduate at **NIBM**
-
 - 💬 Ask me about **Java**
-
 - 📫 How to reach me **Ruchirara22@gmail.com**
-  
+
 - ⚡ Fun fact **I can debug code better at midnight than during the day!**
 
 </td>
