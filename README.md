@@ -16,7 +16,7 @@
   ## About Me
 - 🌱 I’m currently learning **Android Studio**
 - 🧑‍🎓 I’m an Undergraduate at **NIBM**
-- 💬 Ask me about **Java**
+- 💬 Ask me about **JAVA**
 - 📫 How to reach me **Ruchirara22@gmail.com**
 
 - ⚡ Fun fact **I can debug code better at midnight than during the day!**
